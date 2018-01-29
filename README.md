@@ -7,11 +7,11 @@ Basic descriptions of the projects. They are all commented with the relevant inf
 
 	DeXpression- Implementation of the DeXpression paper: https://arxiv.org/abs/1509.05371
 	
-	Scout Net- A network architecture based off of DeXpression that utilizes highway convolutional layers.
+	Scout Net- A network architecture based off of DeXpression that utilizes highway convolutional layers to classify facial expressions from the CK+ dataset.
 	
 	IMDB Highway- A network for sentiment analysis that uses 1-d convolutional highway layers.
 
-
+	GRU Cart- A network that utilizes gated recurrent units to achieve a pretty much constant score of 200 that trains in about 3 seconds.
 
 
 
