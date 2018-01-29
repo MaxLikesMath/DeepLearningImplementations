@@ -15,3 +15,4 @@ GRU Cart- A network that utilizes gated recurrent units to achieve a pretty much
 
 MB Exp- An experiment on the Myers-Briggs dataset from Kaggle that attempts to classify people based on Twitter posts.
 
+Hate Speech- Using a recurrent netowrk with GRU cells to classify hate speech.
