@@ -11,8 +11,12 @@ Scout Net- A network architecture based off of DeXpression that utilizes highway
 	
 IMDB Highway- A network for sentiment analysis that uses 1-d convolutional highway layers.
 
-GRU Cart- A network that utilizes gated recurrent units to achieve a pretty much constant score of 200 that trains in about 3 seconds.
+GRU Cart- A network that utilizes gated recurrent units to solve OpenAI's cartpole environment. Trains in about 3 seconds.
 
 MB Exp- An experiment on the Myers-Briggs dataset from Kaggle that attempts to classify people based on Twitter posts.
 
-Hate Speech- Using a recurrent netowrk with GRU cells to classify hate speech.
+Hate Speech- Using a recurrent network with GRU cells to classify hate speech.
+
+Attention Mech- A function made in Tensorflow that replicates the attention mechanism described in http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
+
+
