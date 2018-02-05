@@ -20,3 +20,8 @@ Hate Speech- Using a recurrent network with GRU cells to classify hate speech.
 Attention Mech- A function made in Tensorflow that replicates the attention mechanism described in http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf
 
 seq2seq- A basic sequence2sequence function using LSTM cells without attention that's based off of the Tensorflow tutorial with some minor changes and work arounds for issues with Deepcopy.
+
+Q-Learn Func- A basic function for experimenting with Q-Learning and the involved hyperparameters.
+
+
+
