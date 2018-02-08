@@ -1,5 +1,5 @@
 # Deep Learning Implementations
-This is a repository of implementations of deep learning papers, along with personal projects and experiments. Most are written
+This is a repository of implementations of deep learning papers, along with mini projects and experiments. Most are written
 using a mix of TFLearn and Tensorflow. 
 
 # Project Descriptions
