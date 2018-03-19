@@ -1,4 +1,4 @@
-''' This is a GRU net trained to detect hate speech. The dataset comes from https://github.com/t-davidson/hate-speech-and-offensive-language.
+''' This is a GRU net trained to detect hate speech with very simple text vectorization. The dataset comes from https://github.com/t-davidson/hate-speech-and-offensive-language.
 After 5 epochs this net achieves about ~90% accuracy on the validation set.
 
 '''
